@@ -1,0 +1,14 @@
+//package com.iuh.edu.vn;
+//
+//import java.io.File;
+//
+//public class TestDirExplorer {
+//
+//	public static void main(String[] args) {
+//		File projectDir = new File("T:\\ThucHanh\\json-demo");
+//		 new DirExplorer((level, path, file) -> path.endsWith(".java"), (level, path,
+//		file) -> {
+//		System.out.println(path);
+//		 })
+//
+//}
